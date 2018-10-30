@@ -1,0 +1,2 @@
+upon logon, the following called configuration files are called in order(.profile --> .kshrc)
+
